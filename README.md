@@ -12,7 +12,7 @@ npm install -g pnpm
 ```  
 - 克隆文档仓库  
 ```shell
-git clone https://github.com/XiaoMiku01/fansMedalHelperVersion.git  
+git clone https://github.com/Venus-Yim/fansMedalHelperVersion.git  
 cd fansMedalHelperVersion
 ```
 - 安装依赖  
