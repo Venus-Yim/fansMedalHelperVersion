@@ -48,7 +48,7 @@ sidebar:
 
     ```shell
     rm -rf src && cd src
-    git clone https://github.com/XiaoMiku01/fansMedalHelper.git ./
+    git clone https://github.com/Venus-Yim/fansMedalHelper.git ./
     cp users.example.yaml users.yaml
     python3 -m pip install --upgrade pip
     pip3 install -t . -r requirements.txt
@@ -57,10 +57,10 @@ sidebar:
 ::: warning 注意
 
 - 如果第二步 `git clone` 出现：
-    fatal: unable to access 'https://github.com/XiaoMiku01/fansMedalHelper.git/': OpenSSL SSL_read: Connection was aborted, errno 10053
+    fatal: unable to access 'https://github.com/Venus-Yim/fansMedalHelper.git/': OpenSSL SSL_read: Connection was aborted, errno 10053
     说明网络原因拉取失败，请重试第二行命令。
 
-- 若多次失败，可以替换为 `git clone https://ghproxy.com/https://github.com/XiaoMiku01/fansMedalHelper.git ./`
+- 若多次失败，可以替换为 `git clone https://ghproxy.com/https://github.com/Venus-Yim/fansMedalHelper.git ./`
 :::
 
 ## 部署与测试

@@ -18,7 +18,7 @@ sidebar:
 ## 克隆项目并安装依赖
 
 ```shell
-git clone https://github.com/XiaoMiku01/fansMedalHelper.git
+git clone https://github.com/Venus-Yim/fansMedalHelper.git
 cd fansMedalHelper
 pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
@@ -36,13 +36,13 @@ vim users.yaml
 
 ## 运行主程序
 
-### 单次运行
+### 直接运行
 
 ```shell
 python main.py
 ```
 
-默认只运行一次，需要结合**任务计划程序（Windows）** 或 **crontab （Linux / macOS）** 实现每日定时调用。
+直接运行，想自动循环  需要填写配置文件中CRON表达式 或 结合**任务计划程序（Windows）** 或 **crontab （Linux / macOS）** 实现每日定时调用。
 
 ### 自动调度
 

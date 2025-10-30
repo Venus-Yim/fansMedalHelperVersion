@@ -27,7 +27,7 @@ sidebar:
 - 输入以下内容，点击“保存”。
 
     ```shell
-    git clone https://github.com/XiaoMiku01/fansMedalHelper.git
+    git clone https://github.com/Venus-Yim/fansMedalHelper.git
     cp fansMedalHelper/users.example.yaml fansMedalHelper/users.yaml
     ```
 

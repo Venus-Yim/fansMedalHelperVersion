@@ -54,13 +54,13 @@ sidebar:
 
 - 在下方 **Terminal（终端）** 中输入或粘贴以下代码：
     ```shell
-    git clone https://github.com/XiaoMiku01/fansMedalHelper.git && cp -rf fansMedalHelper/* . && pip3 install -t . -r requirements.txt && cp users.example.yaml users.yaml
+    git clone https://github.com/Venus-Yim/fansMedalHelper.git && cp -rf fansMedalHelper/* . && pip3 install -t . -r requirements.txt && cp users.example.yaml users.yaml
     ```
     ![](../images/ali-fc/5.png)
 
     ::: warning 注意
     如果出现：
-    fatal: unable to access 'https://github.com/XiaoMiku01/fansMedalHelper.git/': OpenSSL SSL_read: Connection was aborted, errno 10053  
+    fatal: unable to access 'https://github.com/Venus-Yim/fansMedalHelper.git/': OpenSSL SSL_read: Connection was aborted, errno 10053  
     说明网络原因拉取失败，请重试几次。
     :::
 

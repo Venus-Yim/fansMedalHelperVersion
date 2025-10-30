@@ -47,7 +47,7 @@ sidebar:
 
 ### Fork 代码仓库
 
-使用授权的账号登录 GitHub，并访问仓库[XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper)，然后点击 Fork。
+使用授权的账号登录 GitHub，并访问仓库[Venus-Yim/fansMedalHelper](https://github.com/Venus-Yim/fansMedalHelper)，然后点击 Fork。
 
 ![4](../images/ali-cloud-simple/4.png)  
 

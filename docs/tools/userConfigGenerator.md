@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-# 配置文件生成器
+# 配置文件生成器（未更新，不适配当前版本，请使用github文档自行调整）
 
 <div align="center"><Generator /></div>
 
