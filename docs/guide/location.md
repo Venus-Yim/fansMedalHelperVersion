@@ -20,7 +20,7 @@ sidebar:
 ```shell
 git clone https://github.com/Venus-Yim/fansMedalHelper.git
 cd fansMedalHelper
-pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+python -m pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ## 填写配置文件 users.yaml
